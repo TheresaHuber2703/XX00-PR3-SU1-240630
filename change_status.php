@@ -4,7 +4,7 @@
     // Verbindung zur Datenbank herstellen
     $servername = "localhost";
     $username = "root";
-    $password = "Na4p02e&!2402";
+    $password = "*Passwort*";
     $dbname = "tododatabase";
     $conn = new mysqli($servername, $username, $password, $dbname);
 

@@ -3,7 +3,7 @@
 // Verbindungsparameter für die MySQL-Datenbank festlegen
 $servername = "localhost";
 $username = "root";
-$password = "Na4p02e&!2402";
+$password = "*Passwort*";
 $dbname = "tododatabase";
 
 // Verbindung zur Datenbank herstellen
